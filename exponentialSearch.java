@@ -3,8 +3,11 @@ import java.util.Collections;
 import java.util.*;
 import SA.*; // Import Custom Algorithms
 class ExponentialSearch{
+        /** @param input an array of integers.
+         * @param x The the element inside the list that you are finding.
+         * @return The position of the element.
+        */
     int exponentialSearch(int[] input,int x){
-        int ans = 0;
         int n = input.length;
         if (input[0]==x) {
             return 0;
