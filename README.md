@@ -34,7 +34,7 @@ Divide and Conquer Approach
 Recursively divide input array into two halves, and then compare call merge function which compares the elements of the two halfs picking the lower value/higher value element into the merged array   
 Time Complexity : O(n * log(n))  
 The input halved O(log(n)) times) while N elements iterated log(n) times, giving nlogn  
-Auxillary Space : O(1)
+Auxillary Space : O(n)
 
 
 
