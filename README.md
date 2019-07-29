@@ -1,4 +1,5 @@
 # JavaAlgorithms
+For practising Java for fun only.
 ## Search Algorithms
 
 ### 1. Binary Search
